@@ -1,7 +1,7 @@
-# ADR Draft: Adopt MCP Ecosystem Family Roadmap
+# ADR-1: Adopt MCP Ecosystem Family Roadmap
 
 Date: 2026-07-09
-Status: Draft, blocked from PR because current credentials cannot create pull requests in this repository
+Status: Proposed in PR #1
 Slug: mcp-family-sota-roadmap
 
 ## Context
@@ -30,4 +30,4 @@ stay in the owning product repositories.
 
 - Roadmap added at `docs/roadmap/sota-family-roadmap.md`.
 - PROJECT boundary added locally.
-- Branch push succeeded, but PR creation is blocked by GitHub permission.
+- PR #1 opened for review by CI and repository policy.
