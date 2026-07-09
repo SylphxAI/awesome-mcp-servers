@@ -1,7 +1,7 @@
 # SOTA Family Roadmap
 
-Status: adoption plan  
-Owner: SylphxAI awesome-mcp-servers fork  
+Status: adoption plan
+Owner: SylphxAI awesome-mcp-servers fork
 Scope: repo-local future plan and its role in the SylphxAI MCP family
 Decision record: `docs/adr/ADR-DRAFT-mcp-family-sota-roadmap.md`
 

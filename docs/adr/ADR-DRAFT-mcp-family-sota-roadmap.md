@@ -1,7 +1,7 @@
 # ADR Draft: Adopt MCP Ecosystem Family Roadmap
 
-Date: 2026-07-09  
-Status: Draft, blocked from PR because current credentials cannot create pull requests in this repository  
+Date: 2026-07-09
+Status: Draft, blocked from PR because current credentials cannot create pull requests in this repository
 Slug: mcp-family-sota-roadmap
 
 ## Context
